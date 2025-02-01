@@ -1,0 +1,40 @@
+Uri: https://blooketbot.glitch.me/
+File Name: C:\Downloaded Web Sites\blooketbot.glitch.me\index.htm
+Content Type: text/html
+
+Uri: https://blooketbot.glitch.me/script.js
+File Name: C:\Downloaded Web Sites\blooketbot.glitch.me\script.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:400,700|Titan+One|Creepster|Satisfy|Eczar:700
+File Name: C:\Downloaded Web Sites\blooketbot.glitch.me\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/creepster/v13/AlZy_zVUqJz4yMrniH4Rcn38.ttf
+File Name: C:\Downloaded Web Sites\blooketbot.glitch.me\s\creepster\v13\AlZy_zVUqJz4yMrniH4Rcn38.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/eczar/v22/BXR2vF3Pi-DLmxcpJB-qbNTyTMDX-tmmrjgR.ttf
+File Name: C:\Downloaded Web Sites\blooketbot.glitch.me\s\eczar\v22\BXR2vF3Pi-DLmxcpJB-qbNTyTMDX-tmmrjgR.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\blooketbot.glitch.me\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\blooketbot.glitch.me\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/satisfy/v21/rP2Hp2yn6lkG50LoCZOIGA.ttf
+File Name: C:\Downloaded Web Sites\blooketbot.glitch.me\s\satisfy\v21\rP2Hp2yn6lkG50LoCZOIGA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/titanone/v15/mFTzWbsGxbbS_J5cQcjClDgj.ttf
+File Name: C:\Downloaded Web Sites\blooketbot.glitch.me\s\titanone\v15\mFTzWbsGxbbS_J5cQcjClDgj.ttf
+Content Type: font/ttf
+
+Uri: https://zalgo.org/lunicode.js
+File Name: C:\Downloaded Web Sites\blooketbot.glitch.me\lunicode.js
+Content Type: text/javascript
+
